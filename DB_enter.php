@@ -2,7 +2,7 @@
 <?php
 $servername = "localhost";
 $username = "root";
-$password = "srikant786";
+$password = "";
 $dbname = "test";
 $newuser=$_POST["user"];
 $paw= $_POST["pass"];
